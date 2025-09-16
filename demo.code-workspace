@@ -1,9 +1,0 @@
-{
-	"folders": [
-		{
-			"uri": "vscode-remote://wsl+ubuntu/home/zxr/demo"
-		}
-	],
-	"remoteAuthority": "wsl+Ubuntu",
-	"settings": {}
-}
